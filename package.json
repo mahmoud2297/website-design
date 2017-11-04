@@ -1,0 +1,22 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "this is the first assignment in the course",
+  "main": "aboutus.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "mahmoud hilal",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "jquery": "^3.2.1",
+    "popper": "^1.0.0",
+    "tether": "^1.4.0"
+  }
+}
